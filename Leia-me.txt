@@ -1,0 +1,3 @@
+Para rodar o programa, basta executar o arquivo main.py e fornecer como entrada uma das opções de
+arquivo.txt(P1.txt, P2.txt, ..., P10.txt).
+Alguns problemas podem demorar um pouco para ter uma solução encontrada, basta esperar.
